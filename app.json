@@ -1,7 +1,8 @@
 {
   "name": "HerokuBannedDeployer",
-  "description": "With this",
+  "description": "With this you can deploy repos that are banned/blacklisted by heroku",
   "keywords": [
+    "telegram",
     "open",
     "source",
     "multi",
@@ -21,7 +22,7 @@
     },
     "PYTHON_FILE": {
       "description": "Name of the python file that you need to run. [use -m if you need to run __main__.py from a folder]",
-      "value": "-m"
+      "value": ""
     },
      "OTHER_CMD": {
       "description": "If you need to run any bash command other than python specify here",
