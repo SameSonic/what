@@ -1,7 +1,3 @@
-# HerokuBannedDeployer
-### IT IS MANDITORY TO FORK THIS REPO
-With this you can deploy repos that are banned/blacklisted by heroku in different platforms
-
 # Deploy From Here
 
 ## Railway
